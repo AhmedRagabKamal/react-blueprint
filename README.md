@@ -6,6 +6,8 @@ This Turborepo starter is maintained by the Turborepo core team.
 
 Run the following command:
 
+Change this readme to test lint-staged with prettier.
+
 ```sh
 npx create-turbo@latest
 ```
